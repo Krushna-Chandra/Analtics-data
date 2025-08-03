@@ -1,6 +1,6 @@
 ...
 
-# 📊 Analytics Data
+# 📊 Analytics-Data
 
 A simple and elegant HTML/CSS-based project that displays interactive **social engagement icons** (Like, Comment, Share) using **Boxicons**. Each icon redirects to a dedicated page with a custom message or interaction.
 
