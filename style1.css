@@ -1,0 +1,12 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial;
+      background-color: #fce4ec;
+    }
+    .message {
+      font-size: 24px;
+      color: #d81b60;
+    }
