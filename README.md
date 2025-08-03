@@ -48,8 +48,7 @@ Analytics-Data-UI/
 
 ## ✨ Demo Preview
 
-> *(Add screenshots or a screen recording GIF here if possible)*
-> Or deploy it with **GitHub Pages** and link to it.
+> **GitHub Pages**:- [Visit my project](https://krushna-chandra.github.io/Analtics-data/)
 
 ## 📌 Use Case Ideas
 
